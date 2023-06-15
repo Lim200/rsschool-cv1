@@ -4,11 +4,11 @@
 ___
 ### Contact information:
 
-**My phone** +3752966778895
-**Email** Lim200@gmail.com
-**Location** Minsk, Belarus
-**Discord** Lim200
-[GitHub](https://github.com/Lim200) 
+**My phone** +3752966778895  
+**Email** Lim200@gmail.com  
+**Location** Minsk, Belarus  
+**Discord** Lim200  
+[GitHub](https://github.com/Lim200)   
 
 ### About me:
 I have started this course because I want to become Junior Frontend Developer. I always like to learn something new.
