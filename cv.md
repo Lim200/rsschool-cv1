@@ -28,12 +28,12 @@ a = 'Hello word!'
 print('a')
 ```
 ### Experience:
-I have skills in various fields
-[CV Project](https://Lim200.github.io/rsschool-cv/cv)
+I have skills in various fields  
+[CV Project](https://Lim200.github.io/rsschool-cv/cv)  
 
 ### Education:
-**university:** Belarusian State Economic University
-**Courses:** "Generation Python": a course for beginners
+**university:** Belarusian State Economic University  
+**Courses:** "Generation Python": a course for beginners  
 
 
 ### Lenguage:
