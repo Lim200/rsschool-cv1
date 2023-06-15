@@ -1,6 +1,7 @@
 # Sergei Kot  
 ![](github_PNG45.png)
-___
+
+
 ###Contact information:
 
 **My phone** +3752966778895
