@@ -1,8 +1,8 @@
 # Sergei Kot  
 ![](github_PNG45.png)
 
-
-###Contact information:
+___
+### Contact information:
 
 **My phone** +3752966778895
 **Email** Lim200@gmail.com
